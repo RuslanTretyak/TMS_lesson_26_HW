@@ -1,4 +1,0 @@
-filter\TimeLogFilter.class
-listener\ContextListener.class
-servlet\BookUploadServlet.class
-servlet\BookDownloadServlet.class
